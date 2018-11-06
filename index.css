@@ -4,7 +4,11 @@
 .logo{
   color: #FFFFFF;
   margin: 20px;
-padding-left: 40px;
+  /* padding-left: 200px; */
+/* padding-left: 40px; */
+}
+#forgotAccount{
+  color:#9CB4D8;
 }
 
 #loginText{
@@ -17,6 +21,17 @@ padding-left: 40px;
   display:flex;
   flex-wrap: nowrap;
   justify-content: space-between;
+  padding-left: 200px;
+}
+
+.loginTable{
+  padding-right: 50px;
+    padding-top: 9px;
+        padding-right: 200px;
+}
+
+.spacingLogin{
+  padding-right: 15px;
 }
 
 .formStyle{
@@ -83,3 +98,35 @@ color: #fff;
   width: 64.8%;
 }
 /* End of body */
+
+/* Start of Footer */
+
+.list1Footer{
+  list-style-type: none;
+display: flex;
+justify-content: space-evenly;
+padding-top: 8px;
+    padding-left: 0px;
+}
+.pageFooter{
+  margin-left: 222.500px;
+  margin-right:222.5000px;
+}
+
+.lineBreaker{
+      border-bottom: 2px solid #dddfe2;
+}
+
+.list2Footer{
+  list-style-type: none;
+display: flex;
+flex-flow: wrap;
+justify-content: space-evenly;
+justify-content: space-between;
+    padding-left: 0px;
+/* padding-top: 8px; */
+}
+
+li{
+  padding-left:20px;
+}
