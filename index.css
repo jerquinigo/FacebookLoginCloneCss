@@ -42,7 +42,24 @@ padding-left: 40px;
 }
 
 .leftContent{
-  margin-right: 15.999px;
+  margin-right: 139.999px;
+}
+
+.left1{
+  display: -webkit-inline-box;
+  padding-bottom: 20px;
+}
+
+.left2{
+  display: flex;
+align-items: center;
+padding-bottom: 20px;
+}
+
+.left3{
+  display: flex;
+align-items: center;
+padding-bottom: 20px;
 }
 
 
